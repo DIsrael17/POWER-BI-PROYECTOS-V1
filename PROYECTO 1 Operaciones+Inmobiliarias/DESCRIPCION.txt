@@ -1,0 +1,1 @@
+dashboard, mapas, graficas de ventas por sucursales, mapas, fechas, total de zona mas vendidos 
